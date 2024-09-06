@@ -1,6 +1,6 @@
 # building-neural-network
 
-Trying to build a simple neural network from scratch.
+Progress of trying to build a neural network from scratch.
 
 
 
