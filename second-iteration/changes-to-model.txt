@@ -1,0 +1,5 @@
+reduce redundancy in sigmoid function
+
+edit cost function and gradients to include l2 regularization, preventing overfitting
+
+normalize inputs
